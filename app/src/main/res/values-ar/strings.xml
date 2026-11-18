@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2023 The Android Open Source Project
+    SPDX-FileCopyrightText: 2024-2025 The LibreMobileOS Foundation
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="app_name">LMOSystemUIClock</string>
+    <string name="clock_albert_sans_name">Albert sans</string>
+    <string name="clock_albert_sans_description">خط Albert Sans الرقمي</string>
+    <string name="clock_blaka_name">Blaka</string>
+    <string name="clock_blaka_description">خط Blaka الرقمي</string>
+    <string name="clock_creepster_name">Creepster</string>
+    <string name="clock_creepster_description">خط Creepster الرقمي</string>
+    <string name="clock_kablammo_name">Kablammo</string>
+    <string name="clock_kablammo_description">خط Kablammo الرقمي</string>
+    <string name="clock_modak_name">Modak</string>
+    <string name="clock_modak_description">خط Modak الرقمي</string>
+    <string name="clock_mystery_quest_name">Mystery Quest</string>
+    <string name="clock_mystery_quest_description">خط Mystery Quest الرقمي</string>
+    <string name="clock_rubik_dirt_name">Rubik Dirt</string>
+    <string name="clock_rubik_dirt_description">خط Rubik Dirt الرقمي</string>
+    <string name="clock_rubik_distressed_name">Rubik Distressed</string>
+    <string name="clock_rubik_distressed_description">خط Rubik Distressed الرقمي</string>
+    <string name="clock_rubik_gemstones_name">Rubik Gemstones</string>
+    <string name="clock_rubik_gemstones_description">خط Rubik Gemstones الرقمي</string>
+    <string name="clock_rubik_market_hatch_name">Rubik Marker Hatch</string>
+    <string name="clock_rubik_market_hatch_description">خط Rubik Marker Hatch الرقمي</string>
+    <string name="clock_subway_name">مترو الأنفاق</string>
+    <string name="clock_subway_description">نمط حضري جريء بخط مستوحى من مترو الأنفاق</string>
+    <string name="clock_ridge_name">الحافة</string>
+    <string name="clock_ridge_description">تصميم حاد وجريء بخطوط تشبه الحواف</string>
+    <string name="clock_beauty_name">الجمال</string>
+    <string name="clock_beauty_description">حروف انسيابية أنيقة ورقيقة</string>
+    <string name="clock_sfpro_name">SF Pro Rounded</string>
+    <string name="clock_sfpro_description">خط sans-serif دائري حديث بمظهر نظيف</string>
+    <string name="clock_spacegame_name">لعبة الفضاء</string>
+    <string name="clock_spacegame_description">خطوط مستقبلية مستوحاة من الخيال العلمي</string>
+    <string name="clock_accuratist_name">الدقيق</string>
+    <string name="clock_accuratist_description">تصميم هندسي دقيق وتقني</string>
+    <string name="clock_nothingdot_name">Ndot</string>
+    <string name="clock_nothingdot_description">ساعة Nothing النقطية</string>
+    <string name="clock_12hr_format">hm</string>
+    <string name="clock_24hr_format">Hm</string>
+</resources>
